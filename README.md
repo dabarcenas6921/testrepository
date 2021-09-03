@@ -4,10 +4,10 @@ This is the git workshop
 ## Name
 David Barcenas
 
-''' java
+``` java
 
 String str = "Hello world";
 
 System.out.println(str);
 
-'''
+```
